@@ -1,0 +1,5 @@
+Task B:
+1) Predict the loss amount for the insurance policies using the historical trends and features.
+2) You can use any programming language to do this.
+3) Create a sample data set for implementing the feature.
+4) Drive information by analyzing the data set you have made and present valuable information from it in a presentable format.
